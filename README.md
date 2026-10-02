@@ -36,7 +36,7 @@ The dataset is high-dimensional, contains missing values, and includes non-stand
 │   └── 05_clustering_and_visualization.ipynb
 │
 ├── reports/
-│   └── figures/                 # Generated plots (PNG)
+│   └── figures/                 # Generated plots (PNG) not tracked by git
 │
 ├── src/                         # Shared project utilities
 │   ├── __init__.py

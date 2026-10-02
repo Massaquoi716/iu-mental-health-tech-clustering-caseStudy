@@ -16,3 +16,9 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+# IDEs and Editors
+.vscode/
+
+# Reports not tracked by git
+reports/
