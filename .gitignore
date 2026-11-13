@@ -1,7 +1,7 @@
-# Data files
-data/*.csv
-data/*.xlsx
-data/*.json
+# Data files (matches data/raw/, data/processed/, etc.)
+data/**/*.csv
+data/**/*.xlsx
+data/**/*.json
 
 # Python
 __pycache__/
@@ -19,6 +19,3 @@ Thumbs.db
 
 # IDEs and Editors
 .vscode/
-
-# Reports not tracked by git
-reports/

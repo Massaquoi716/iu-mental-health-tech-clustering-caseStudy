@@ -8,7 +8,7 @@ from src.paths import FIGURES
 # Project palette — steel-blue / grey scheme used across Notebook 01
 PALETTE = {
     "primary": "#1f4e79",
-    "secondary": "#2b5c8f",
+    "secondary": "#460340",
     "missing": "#f0f2f5",
     "accent": "#d9534f",
     "grid": "#cccccc",
